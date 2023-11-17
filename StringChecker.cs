@@ -21,7 +21,8 @@ namespace HomeWork3
                     charE += 1;
             }
             
-            Console.Write($"{charA} \n{charO} \n{charI} \n{charE}");    
+            Console.Write($"{charA} \n{charO} \n{charI} \n{charE}");
+            Console.ReadKey();    
         }
     }
 }
