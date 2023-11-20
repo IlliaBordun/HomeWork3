@@ -6,6 +6,7 @@
         {
             Console.WriteLine("Enter string:");
             StringChecker.Checker(Console.ReadLine());
+            Calc.Calculation();
         }
     }
 }

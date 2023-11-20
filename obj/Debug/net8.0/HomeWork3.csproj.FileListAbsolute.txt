@@ -12,3 +12,4 @@ D:\Project\HomeWork3\obj\Debug\net8.0\refint\HomeWork3.dll
 D:\Project\HomeWork3\obj\Debug\net8.0\HomeWork3.pdb
 D:\Project\HomeWork3\obj\Debug\net8.0\HomeWork3.genruntimeconfig.cache
 D:\Project\HomeWork3\obj\Debug\net8.0\ref\HomeWork3.dll
+D:\Project\HomeWork3\obj\Debug\net8.0\HomeWork3.sourcelink.json
